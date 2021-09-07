@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackAndQueuesLab\\ReverseStrings.csproj",
-      "projectName": "ReverseStrings",
-      "projectPath": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackAndQueuesLab\\ReverseStrings.csproj",
+      "projectUniqueName": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackSum\\StackSum.csproj",
+      "projectName": "StackSum",
+      "projectPath": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackSum\\StackSum.csproj",
       "packagesPath": "C:\\Users\\ewewe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackAndQueuesLab\\obj\\",
+      "outputPath": "C:\\Users\\ewewe\\source\\repos\\CSharpAdvanced\\StackAndQueuesLab\\StackSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
