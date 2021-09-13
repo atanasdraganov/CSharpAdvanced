@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast Food", "Fast Food\Fast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsQueue", "SongsQueue\SongsQueue.csproj", "{F1267869-AA82-472C-A631-E415A99A5CBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F1267869-AA82-472C-A631-E415A99A5CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1267869-AA82-472C-A631-E415A99A5CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1267869-AA82-472C-A631-E415A99A5CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
