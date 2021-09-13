@@ -1,0 +1,13 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csprojAssemblyReference.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.genruntimeconfig.cache
