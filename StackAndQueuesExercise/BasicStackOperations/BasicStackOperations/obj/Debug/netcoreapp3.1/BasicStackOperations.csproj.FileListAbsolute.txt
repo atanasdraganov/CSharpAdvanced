@@ -1,0 +1,13 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\bin\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csprojAssemblyReference.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BasicStackOperations\obj\Debug\netcoreapp3.1\BasicStackOperations.genruntimeconfig.cache
