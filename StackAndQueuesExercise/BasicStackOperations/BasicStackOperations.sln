@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsQueue", "SongsQueue\So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroads", "Crossroads\Crossroads.csproj", "{B23B6D58-06CE-457F-B62F-B55003D75BB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBE1BE6E-D91A-4C84-812A-15A8B60C42B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23B6D58-06CE-457F-B62F-B55003D75BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23B6D58-06CE-457F-B62F-B55003D75BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23B6D58-06CE-457F-B62F-B55003D75BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23B6D58-06CE-457F-B62F-B55003D75BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
