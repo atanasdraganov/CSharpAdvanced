@@ -1,0 +1,13 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.genruntimeconfig.cache
