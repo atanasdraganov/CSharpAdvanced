@@ -1,0 +1,12 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\bin\Debug\netcoreapp3.1\MinAndMaxElement.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\MinAndMaxElement\obj\Debug\netcoreapp3.1\MinAndMaxElement.genruntimeconfig.cache
