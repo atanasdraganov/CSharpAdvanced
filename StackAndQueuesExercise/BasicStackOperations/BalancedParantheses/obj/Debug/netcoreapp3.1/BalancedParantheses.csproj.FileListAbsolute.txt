@@ -1,0 +1,13 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\bin\Debug\netcoreapp3.1\BalancedParantheses.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.genruntimeconfig.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\StackAndQueuesExercise\BasicStackOperations\BalancedParantheses\obj\Debug\netcoreapp3.1\BalancedParantheses.csprojAssemblyReference.cache
