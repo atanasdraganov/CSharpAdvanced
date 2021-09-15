@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FashionBoutique", "FashionB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParantheses", "BalancedParantheses\BalancedParantheses.csproj", "{763C37F9-147F-4B7B-9C8A-39F4A6FC9071}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{33CA6FCD-00C1-4F09-8CC2-340994DB82A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{763C37F9-147F-4B7B-9C8A-39F4A6FC9071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763C37F9-147F-4B7B-9C8A-39F4A6FC9071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763C37F9-147F-4B7B-9C8A-39F4A6FC9071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CA6FCD-00C1-4F09-8CC2-340994DB82A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CA6FCD-00C1-4F09-8CC2-340994DB82A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CA6FCD-00C1-4F09-8CC2-340994DB82A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CA6FCD-00C1-4F09-8CC2-340994DB82A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
