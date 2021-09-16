@@ -1,0 +1,12 @@
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.exe
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.deps.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\bin\Debug\netcoreapp3.1\Diagonal Difference.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.AssemblyInfo.cs
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.dll
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.pdb
+C:\Users\ewewe\source\repos\CSharpAdvanced\MultidimensionalArraysExercise\MultidimensinalArraysExercise\MultidimensinalArraysExercise\obj\Debug\netcoreapp3.1\Diagonal Difference.genruntimeconfig.cache
